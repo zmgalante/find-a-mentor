@@ -4135,5 +4135,23 @@
         "id": "GiacomoRebonato"
       }
     ]
+  },
+  {
+    "id": "ggg@gmail.com",
+    "name": "Miguel",
+    "avatar": "https://sadsa.com",
+    "title": "Master",
+    "description": "",
+    "country": "PT",
+    "tags": [
+      "reactjs",
+      "vue"
+    ],
+    "channels": [
+      {
+        "type": "email",
+        "id": "asda@adsad.pt"
+      }
+    ]
   }
 ]
